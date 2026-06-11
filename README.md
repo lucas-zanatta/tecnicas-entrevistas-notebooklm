@@ -12,11 +12,11 @@ Este caderno temático foi criado para desmistificar e hackear o processo seleti
 ## 📚 Curadoria de Fontes
 Para a construção deste caderno, utilizei o NotebookLM para processar e analisar mais de 40 fontes. Destaco as 5 fontes abertas principais que fundamentam a base deste repositório:
 
-1. **[Artigo]** *Engenharia de Alta Performance em Processos Seletivos: Metodologias Estruturadas, Análise Algorítmica e Negociação de Valor* - Aborda a evolução do método STAR para o CARL, uso de IAs em processos e engenharia cinestésica.
-2. **[Artigo]** *The Secret to Interview Success: Why STAR and CARL Methods Transform Your Answers* - Explora as razões pelas quais estruturas comportamentais transformam a qualidade das respostas.
-3. **[Guia]** *How to Answer Salary Expectations Questions in an Interview - Coursera* - Detalha táticas de negociação salarial e a construção da matriz de remuneração.
-4. **[Artigo]** *Video Interviews and the Role Artificial Intelligence (AI) Plays - Graduates First* - Explica o funcionamento interno de entrevistas assíncronas e a avaliação via Inteligência Artificial.
-5. **[Artigo]** *12 Follow-up Email Templates for Every Work Situation | The Muse* - Fornece modelos e regras de etiqueta para o envio de notas de agradecimento (*Thank-You Notes*) pós-entrevista.
+1. **[Artigo]** *Engenharia de Alta Performance em Processos Seletivos: Metodologias Estruturadas, Análise Algorítmica e Negociação de Valor* - Aborda a evolução do método STAR para o CARL, uso de IAs em processos e engenharia cinestésica. Link: Nota: Este é um documento Markdown local/interno inserido no notebook, portanto não possui um link público na web.
+2. **[Artigo]** *The Secret to Interview Success: Why STAR and CARL Methods Transform Your Answers* - Explora as razões pelas quais estruturas comportamentais transformam a qualidade das respostas. Link: https://www.impactpool.org/article/the-secret-to-interview-success-why-star-and-carl-methods-transform-your-answers
+3. **[Guia]** *How to Answer Salary Expectations Questions in an Interview - Coursera* - Detalha táticas de negociação salarial e a construção da matriz de remuneração. Link: https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mykelly.com%2Fcareer-advice%2Fvirtual-interview-tips
+4. **[Artigo]** *Video Interviews and the Role Artificial Intelligence (AI) Plays - Graduates First* - Explica o funcionamento interno de entrevistas assíncronas e a avaliação via Inteligência Artificial. Link: https://www.graduatesfirst.com/how-do-video-interviews-use-artificial-intelligence
+5. **[Artigo]** *12 Follow-up Email Templates for Every Work Situation | The Muse* - Fornece modelos e regras de etiqueta para o envio de notas de agradecimento (*Thank-You Notes*) pós-entrevista. Link: https://www.themuse.com/advice/follow-up-email-template
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes"
 O uso do NotebookLM exigiu um raciocínio investigativo, indo de abordagens genéricas para diretrizes altamente técnicas.
@@ -56,4 +56,4 @@ Você pode colar esses prompts no NotebookLM para continuar praticando:
 2. *"Com base nas fontes, liste quais são as 5 métricas que a Inteligência Artificial mais rastreia ao analisar a comunicação não-verbal em uma entrevista em vídeo assíncrona."*
 3. *"Quero negociar meu salário. Simule uma conversa onde você me oferece um valor que é exatamente o meu 'Walk-away Minimum'. Ajude-me a treinar a resposta utilizando a técnica de inverter a pergunta ou focar em benefícios indiretos."*
 4. *"Gere um template de e-mail de Follow-up (Modelo Formal) que eu possa enviar a um Diretor 48 horas após uma entrevista técnica."*
-```
+
